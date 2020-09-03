@@ -52,4 +52,4 @@ minima:
 #header_pages:
 # - about.md
 
-theme: jekyll-theme-cayman
+theme: minima
