@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Posts
+
+Sep 04, 2020,
+[AI Part 1: Good or bad guy](ai/good-or-bad-guy.md)
 
 You can use the [editor on GitHub](https://github.com/liamya/liamya.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
