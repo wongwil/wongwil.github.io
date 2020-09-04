@@ -3,7 +3,6 @@ layout: post
 ---
 
 ![Postimage](/assets/ai_vs_human.jpg)
-Format: ![Is AI harmful or helpful?](https://tipps.computerbild.de/imgs/19/1/5/3/8/3/9/was-bedeutet-AI-b55bd307b7b0a05b.jpg)
 
 #### Background
 
@@ -20,7 +19,7 @@ On top of that, there will be another part of this blog after my first semester 
 To get started, we have to consider think about makes people afraid of AI. You have probably seen this scenario in movies, where AI is programmed to do something useful, but is improving so quickly to the point, where it stops listening to humans and silently kills us. 
 
 
-If you look at past AI systems for playing strategic games, you can tell how much progress has been made in the last 20 years. For instance, Google’s AlphaGo system beat the 18-time world champion Lee Sedol in Go in 2016 - this is about 10 to 20 years earlier than many experts expected this to happen [TODO: INSERT](www.google.com). Since we simply do not know, how fast AI is progressing, being concerned is natural reaction. But it gets even more interesting with AlphaZero, which managed to outperform AlphaGo **without** human training - only by playing Go against itself. 
+If you look at past AI systems for playing strategic games, you can tell how much progress has been made in the last 20 years. For instance, Google’s AlphaGo system beat the 18-time world champion Lee Sedol in Go in 2016 - this is about 10 to 20 years earlier than many experts expected this to happen. Since we simply do not know, how fast AI is progressing, being concerned is natural reaction. But it gets even more interesting with AlphaZero, which managed to outperform AlphaGo **without** human training - only by playing Go against itself. 
 
 #### "How intelligent is AI?"
 
@@ -33,7 +32,7 @@ predict-the-future/). It is already reality that our data has not only been used
 
 #### "This or that?"
 
-AI is capable of finding paths to solutions that no humans would be capable of, which makes them ideal to help making decisions. This makes room for humans to focus on more important matters. However, we cannot leave the whole decision making to the AI, while humans lie in the sun. AI is not always trustable. Not because they are evil, but because they are typically trained with data of the past and this can be extremely problematic. According to [this article](https://rm.coe.int/discrimination-artificial-intelligence-and-algorithmic-decision-making/1680925d73) a computer program has been developed to sort out applications of students at a medical school. The training data for the program were admission files from earlier years. It turned out that the program discriminated against women and against people with an immigrant background, because the program reproduced the bias from the data it was trained with. 
+AI is capable of finding paths to solutions that no humans would be capable of, which makes them ideal to help making decisions. This makes room for humans to focus on more important matters. However, we cannot leave the whole decision making to the AI, while humans lie in the sun. AI is not always trustable. Not because they are evil, but because they are typically trained with data of the past and this can be extremely problematic. According to [this article](https://rm.coe.int/discrimination-artificial-intelligence-and-algorithmic-decision-making/1680925d73/) a computer program has been developed to sort out applications of students at a medical school. The training data for the program were admission files from earlier years. It turned out that the program discriminated against women and against people with an immigrant background, because the program reproduced the bias from the data it was trained with. 
 
 #### "How much can we trust AI?"
 
