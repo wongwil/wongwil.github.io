@@ -14,18 +14,18 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    #twitter: jekyllrb
+    github:  liamya
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
-    # instagram: jekyll
+    instagram: illiamw
     # linkedin: jekyll
     # pinterest: jekyll
-    # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    # youtube_channel_name: CloudCannon
+    # youtube: pianofruit
+    youtube_channel: UC41WujECAdrQZ9D5BSPkeZA
+    youtube_channel_name: pianofruit
     # telegram: jekyll
     # googleplus: +jekyll
     # microdotblog: jekyll
