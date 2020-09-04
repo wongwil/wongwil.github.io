@@ -10,9 +10,9 @@ In this blog post I will try give answer to the question: “is AI helpful or ha
 
 On top of that, there will be another part of this blog after my first semester of KI1 – hopefully with more insights! I hope you can enjoy reading the first part!
 
-{% comment %}
-Might you have an include in your theme? Why not try it here!
-{% include my-themes-great-include.html %}
-{% endcomment %}
+## "AI is improving at an unpredictable rate"
 
-No laudem altera adolescens has, volumus lucilius eum no. Eam ei nulla audiam efficiantur. Suas affert per no, ei tale nibh sea. Sea ne magna harum, in denique scriptorem sea, cetero alienum tibique ei eos. Labores persequeris referrentur eos ei.
+To get started, we have to consider think about makes people afraid of AI. You have probably seen this scenario in movies, where AI is programmed to do something useful, but is improving so quickly to the point, where it stops listening to humans and silently kills us. 
+
+
+If you look at past AI systems for playing strategic games, you can tell how much progress has been made in the last 20 years. For instance, Google’s AlphaGo system beat the 18-time world champion Lee Sedol in Go in 2016 - this is about 10 to 20 years earlier than many experts expected this to happen [insert Source]. Since we simply do not know, how fast AI is progressing, being concerned is natural reaction. But it gets even more interesting with AlphaZero, which managed to outperform AlphaGo without human training - only by playing Go against itself. 
