@@ -4,7 +4,7 @@ layout: post
 
 ![Postimage](/assets/ai_vs_human.jpg)
 
-#### Background
+### Background
 
 Without a doubt, Artificial Intelligence is one of the most discussed topics right now. With the rise of self-driving cars, virtual assistants and even humanoid robots, AI is becoming part of our everyday life. Even though AI is programmed to do something beneficial, many people are afraid of AI and even believe that we are going to die because of it. Opinions are very different and they range from “AI can save our world” to “AI will kill us all”.
 
