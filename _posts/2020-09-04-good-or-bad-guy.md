@@ -1,5 +1,7 @@
 ---
 layout: post
+title: "AI Part 1: Good or bad guy"
+categories: school
 ---
 
 ![Postimage](/assets/ai_vs_human.jpg)
