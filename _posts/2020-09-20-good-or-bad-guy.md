@@ -2,7 +2,7 @@
 layout: post
 title: "AI Part 1: Good or bad guy"
 author: Sven Aebersold and William Wong
-categories: school
+categories: uni
 ---
 
 ![Postimage](/assets/ai_vs_human.jpg)
@@ -30,7 +30,7 @@ It’s obvious that these AI systems perform exceptionally at one task. However,
 
 ### Using AI to manipulate us
 
-AI becoming super intelligent and evil is one concern, but what about current AI, which is used to influence our behavior already? With AI gathering our personal information, it is proven that these data can be used to manipulate us. Amazon, Google and other companies have been using machine learning algorithms to recommend products in order to increase sales for years, and it is clearly working very well. Selling a product might not be a severe threat to the human species, but what if AI would be used for political reasons? With the revelations of Edward Snowden, we know that we have been targets of mass surveillance [(Newspaper article: Edward Snowden: Leaks that exposed US spy programme)](https://www.bbc.com/news/world-us-canada-23123964). It *is* already reality that our data has not only been used for marketing, but also to manipulate elections [(Newspaper article: Manipulation during US elections through Facebook)](https://time.com/5197255/facebook-cambridge-analytica-donald-trump-ads-data/). When people use AI for selfish reasons, AI becomes a dangerous weapon instead of something valuable to our society. However, it is the fault of humankind and not of AI that something like this happened.
+AI becoming super intelligent and evil is one concern, but what about current AI, which is used to influence our behavior already? With AI gathering our personal information, it is proven that these data can be used to manipulate us. Amazon, Google and other companies have been using machine learning algorithms to recommend products in order to increase sales for years, and it is clearly working very well. Selling a product might not be a severe threat to the human species, but what if AI would be used for political reasons? With the revelations of Edward Snowden, we know that we have been targets of mass surveillance [(Newspaper article: Edward Snowden: Leaks that exposed US spy programme)](https://www.bbc.com/news/world-us-canada-23123964). It *is* already reality that our data has not only been used for marketing, but also to manipulate elections [(Newspaper article: Facebook political manipulation)](https://www.washingtonpost.com/outlook/2019/11/04/i-worked-political-ads-facebook-they-profit-by-manipulating-us/). When people use AI for selfish reasons, AI becomes a dangerous weapon instead of something valuable to our society. However, it is the fault of humankind and not of AI that something like this happened.
 
 ### This or that?
 
