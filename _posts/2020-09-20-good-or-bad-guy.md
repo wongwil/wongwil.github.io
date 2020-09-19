@@ -45,5 +45,5 @@ Because AI can be biased, we still cannot trust AI blindly. But the fact that hu
 
 In our opinion, AI only becomes harmful if we make it harmful. The idea that AI becomes evil and kills us is not realistic at all. There are obviously others risks e.g. that AI becomes biased or can be used for selfish reasons, but it is *our responsibility* that scenarios like these are prevented. We still think AI is worth researching and we believe it will be even more helpful in the future - even if it doesn't reach human intelligence. AI can already help with solving problems or making decisions in fields which are too complex or too demanding for us humans. There are already so many useful examples like Autonomous Vehicles, Plagiarism Checkers and Spam Filters, so we will definitely be missing out if we don't keep researching it. 
 
-But just in case AI really becomes evil: We both were on your side all the time, so you better be grateful instead of killing us two. 
+But just in case AI really becomes evil: We were both on your side all the time, so you better be grateful instead of killing us two. 
 
