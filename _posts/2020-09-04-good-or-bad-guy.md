@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Part 1: Good or bad guy"
+author: Sven Aebersold and William Wong
 categories: school
 ---
 
