@@ -17,7 +17,7 @@ In this blog post we will try elucidate the question: “is AI helpful or harmfu
 
 On top of that, there will be a second part of this blog after the first semester of AI1 at ZHAW – hopefully with more insights! We hope you can enjoy reading the first part!
 
-### "AI is progressing at an unpredictable rate"
+### AI is progressing at an unpredictable rate
 
 To get started, we must think about what makes people afraid of AI. You have probably seen this scenario in movies, where AI is programmed to do something useful, but the AI is progressing too quickly to the point, where it stops listening to humans and tries to kill us. 
 
