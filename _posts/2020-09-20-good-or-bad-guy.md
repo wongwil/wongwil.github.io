@@ -26,7 +26,7 @@ If you look at past AI systems for playing strategic games, you can tell how muc
 
 ### How intelligent is AI?
 
-It’s obvious that these AI systems perform exceptionally at one task. However, they are still not able to feel emotions, so humans are still more intelligent, right? Unfortunately, there is no clear definition for intelligence which satisfies everyone. But we know that AI doesn't have a consciousness yet and it is for programmers difficult if not impossible to replicate such a state since our brain with its billions of nerves is such a complex system. So before AI will reach general artificial intelligence, we have to fully understand our brain and how consciousness works first. And as for now, since most AI systems are limited to specific problem solving tasks, there is according to our knowledge no reason to be afraid that AI systems will attack us humans from behind. 
+It’s obvious that these AI systems perform exceptionally at one task. However, they are still not able to feel emotions, so humans are still more intelligent, right? Unfortunately, there is no clear definition for intelligence which satisfies everyone. But we know that AI doesn’t have consciousness yet and for programmers it is difficult if not impossible to replicate such a state since we still don't fully understand our brain with its billions of nerves. So before AI will reach general artificial intelligence, we first have to understand our brain and how consciousness works. And as for now, since most AI systems are limited to specific problem solving tasks, there is according to our knowledge no reason to be afraid that AI systems will attack us humans from behind.
 
 ### Using AI to manipulate us
 
