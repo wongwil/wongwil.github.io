@@ -30,7 +30,8 @@ With this concept, GAN is trained to generate e.g images or videos which look au
 
 <div style="text-align:center"><img src="/assets/google_search.png" width="60%" /></div>
 
-*Upscaling resolution in video games*
+**Upscaling resolution in video games**
+
 GAN have been for example used to recreate old video games in a higher resolution via image training. 
 [Article: Final fantasy 7 makeover](https://www.pcgamer.com/ai-neural-networks-are-giving-final-fantasy-7-a-makeover/)
 
@@ -38,4 +39,19 @@ GAN have been for example used to recreate old video games in a higher resolutio
 
 While retaining the original level of features, a clearer and sharper texture is being recreated with better quality than the original. It’s cool and useful but not scary.
 
+**Generating faces**
 
+What about [faces](https://generated.photos/faces) of humans who don’t even exist? 
+Because we cannot tell the difference, it is indeed a little bit disturbing. After all, these faces are from humans who don’t exist. Maybe photo models go out of work?
+
+**Fake videos**
+
+Well, what about realistic [videos](https://www.vice.com/en/article/qv7zkw/create-fake-videos-of-faces-samsung-ai-labs-algorithm) of you ? 
+In this example they only need one photo to create an animated portraits of you. Obviously this is already more frightening. Let’s say someone creates a fake video of you and puts in on the internet with some altered audio of you saying ignorant things.
+
+**Art**
+
+At least they cannot create creative things like [art](https://deepart.io/) or music pieces, right? I guess we were wrong:
+<div style="text-align:center"><img src="/assets/tech_2016.jpg" width="60%" /></div>
+<div style="text-align:center"><img src="/assets/sternenacht.jpg" width="60%" /></div>
+<div style="text-align:center"><img src="/assets/tech_art.jpg" width="60%" /></div>
