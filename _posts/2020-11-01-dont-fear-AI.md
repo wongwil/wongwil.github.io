@@ -61,6 +61,7 @@ Some systems can turn photos into an artwork with a chosen stylistic elements:
 
 <div style="text-align:center"><img src="/assets/tech_2016.jpg" width="30%" /><img src="/assets/sternenacht.jpg" width="30%" /></div>
 
+
 <div style="text-align:center"><img src="/assets/tech_art.jpg" width="60%" /></div>
 
 **Fear**
@@ -97,7 +98,7 @@ Humans fear what they do not understand and very quickly make assumptions about 
 
 Here are some previous headlines of articles ranging from 1950 to 1980. You can find more of them on this [article](https://timeline.com/robots-have-been-about-to-take-all-the-jobs-for-more-than-200-years-5c9c08a2f41d):
 
-<div style="text-align:center"><img src="/assets/1950_headline.png" width="30%" /><img src="/assets/1960_headline.png" width="30%" /><img src="/assets/1980_headline.png" width="30%" />
+<div style="text-align:center"><img src="/assets/1950_headline.png" width="30%" /><img src="/assets/1960_headline.png" width="30%" /><img src="/assets/1980_headline.png" width="30%" /></div>
 
 If we look back about these articles we can conclude that the fear was unreasonable. It is true that jobs will be replaced but we tend to forget that new technologies open up new opportunities and also create new jobs. The goal of AI is to **improve the life of workers and not replace them** and there is absolutely no robot in this world who wants to “steal” your job.   
 
