@@ -3,7 +3,7 @@ layout: post
 title: "AI Part 2: Don't fear AI"
 author: William Wong
 categories: uni
-published: true
+published: false
 ---
 
 ### Intro
@@ -35,7 +35,7 @@ With this concept, GAN is trained to generate e.g images or videos which look au
 GAN have been for example used to recreate old video games in a higher resolution via image training. 
 [Article: Final fantasy 7 makeover](https://www.pcgamer.com/ai-neural-networks-are-giving-final-fantasy-7-a-makeover/)
 
-<div style="text-align:center"><img src="/assets/gan_resolution.gif" width="60%" /></div>
+<div style="text-align:center"><img src="/assets/gan_resolution.gif" width="40%" /></div>
 
 While retaining the original level of features, a clearer and sharper texture is being recreated with better quality than the original. It’s cool and useful but not scary.
 
@@ -52,6 +52,6 @@ In this example they only need one photo to create an animated portraits of you.
 **Art**
 
 At least they cannot create creative things like [art](https://deepart.io/) or music pieces, right? I guess we were wrong:
-<div style="text-align:center"><img src="/assets/tech_2016.jpg" width="60%" /></div>
-<div style="text-align:center"><img src="/assets/sternenacht.jpg" width="60%" /></div>
-<div style="text-align:center"><img src="/assets/tech_art.jpg" width="60%" /></div>
+<div style="text-align:center"><img src="/assets/tech_2016.jpg" width="40%" /></div>
+<div style="text-align:center"><img src="/assets/sternenacht.jpg" width="40%" /></div>
+<div style="text-align:center"><img src="/assets/tech_art.jpg" width="40%" /></div>
