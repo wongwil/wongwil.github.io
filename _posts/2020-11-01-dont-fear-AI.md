@@ -55,7 +55,7 @@ At least they cannot create creative things like [art](https://deepart.io/) or m
 
 Some systems can turn photos into an artwork with a chosen stylistic elements:
 
-<div style="text-align:center; margin: 10px"><img src="/assets/tech_2016.jpg" height="100px" /><img src="/assets/sternenacht.jpg" width="100px" /></div>
+<div style="text-align:center; margin: 10px"><img src="/assets/tech_2016.jpg" height="100px" /><img src="/assets/sternenacht.jpg" height="100px" /></div>
 
 <div style="text-align:center; margin: 10px"><img src="/assets/tech_art.jpg" width="60%" /></div>
 
