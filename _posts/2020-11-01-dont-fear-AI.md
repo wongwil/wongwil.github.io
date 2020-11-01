@@ -21,9 +21,7 @@ Let me tell you about the generative adversarial networks. I am not an expert in
 
 How it works:
 
-<div style="text-align:center"><img src="/assets/GAN_concept.png" width="60%" /></div>
-
-
+<div style="text-align:center; margin: 10px;"><img src="/assets/GAN_concept.png" width="60%" /></div>
 In this concept a generator is used to generate for example real-looking images and the discriminator is trying to identify which one is fake. It is similar to a game where the one tries to fool the other and the other one tries to not be fooled. The core idea is that the generator is being trained by the discriminator, which itself is also being trained. 
 
 With this concept, GAN is trained to generate e.g images or videos which look authentic to human eyes. And if you try to look for applications on the web, there are plenty of them:
