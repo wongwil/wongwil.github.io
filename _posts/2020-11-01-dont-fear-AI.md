@@ -21,21 +21,19 @@ Let me tell you about the generative adversarial networks. I am not an expert in
 
 How it works:
 
-<div style="text-align:center; margin: 10px;"><img src="/assets/GAN_concept.png" width="60%" /></div>
+<div style="text-align:center; margin: 10px"><img src="/assets/GAN_concept.png" width="60%" /></div>
 In this concept a generator is used to generate for example real-looking images and the discriminator is trying to identify which one is fake. It is similar to a game where the one tries to fool the other and the other one tries to not be fooled. The core idea is that the generator is being trained by the discriminator, which itself is also being trained. 
 
 With this concept, GAN is trained to generate e.g images or videos which look authentic to human eyes. And if you try to look for applications on the web, there are plenty of them:
 
-<div style="text-align:center"><img src="/assets/google_search.png" width="50%" /></div>
-
-
+<div style="text-align:center; margin: 10px"><img src="/assets/google_search.png" width="50%" /></div>
 
 **Upscaling resolution in video games**
 
 GAN have been for example used to recreate old video games in a higher resolution via image training. 
 [Article: Final fantasy 7 makeover](https://www.pcgamer.com/ai-neural-networks-are-giving-final-fantasy-7-a-makeover/)
 
-<div style="text-align:center"><img src="/assets/gan_resolution.gif" width="40%" /></div>
+<div style="text-align:center; margin: 10px"><img src="/assets/gan_resolution.gif" width="40%" /></div>
 
 While retaining the original level of features, a clearer and sharper texture is being recreated with better quality than the original. It’s cool and useful but not scary.
 
@@ -49,7 +47,7 @@ Because we cannot tell the difference, it is indeed a little bit disturbing. Aft
 Well, what about realistic [videos](https://www.vice.com/en/article/qv7zkw/create-fake-videos-of-faces-samsung-ai-labs-algorithm) of you ? 
 In this example they only need one photo to create an animated portraits of you. Obviously this is already more frightening. Let’s say someone creates a fake video of you and puts in on the internet with some altered audio of you saying ignorant things.
 
-<div style="text-align:center"><img src="/assets/monalisa.gif" width="60%" /></div>
+<div style="text-align:center; margin: 10px"><img src="/assets/monalisa.gif" width="60%" /></div>
 
 **Art**
 
@@ -57,10 +55,9 @@ At least they cannot create creative things like [art](https://deepart.io/) or m
 
 Some systems can turn photos into an artwork with a chosen stylistic elements:
 
-<div style="text-align:center"><img src="/assets/tech_2016.jpg" width="30%" /><img src="/assets/sternenacht.jpg" width="30%" /></div>
+<div style="text-align:center; margin: 10px"><img src="/assets/tech_2016.jpg" height="100px" /><img src="/assets/sternenacht.jpg" width="100px" /></div>
 
-
-<div style="text-align:center"><img src="/assets/tech_art.jpg" width="60%" /></div>
+<div style="text-align:center; margin: 10px"><img src="/assets/tech_art.jpg" width="60%" /></div>
 
 **Fear**
 
@@ -96,7 +93,7 @@ Humans fear what they do not understand and very quickly make assumptions about 
 
 Here are some previous headlines of articles ranging from 1950 to 1980. You can find more of them on this [article](https://timeline.com/robots-have-been-about-to-take-all-the-jobs-for-more-than-200-years-5c9c08a2f41d):
 
-<div style="text-align:center"><img src="/assets/1950_headline.png" width="30%" /><img src="/assets/1960_headline.png" width="30%" /><img src="/assets/1980_headline.png" width="30%" /></div>
+<div style="text-align:center; margin: 10px"><img src="/assets/1950_headline.png" width="30%" /><img src="/assets/1960_headline.png" width="30%" /><img src="/assets/1980_headline.png" width="30%" /></div>
 
 If we look back about these articles we can conclude that the fear was unreasonable. It is true that jobs will be replaced but we tend to forget that new technologies open up new opportunities and also create new jobs. The goal of AI is to **improve the life of workers and not replace them** and there is absolutely no robot in this world who wants to “steal” your job.   
 
