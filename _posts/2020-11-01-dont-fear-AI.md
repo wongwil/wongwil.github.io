@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "AI Part 2: Don't fear AI"
+title: "AI Part 2: Don't fear AI!"
 author: William Wong
 categories: uni
-visible: 1
+published: false
 ---
 ### Cheatsheet
 
