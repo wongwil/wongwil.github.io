@@ -51,7 +51,54 @@ In this example they only need one photo to create an animated portraits of you.
 
 **Art**
 
-At least they cannot create creative things like [art](https://deepart.io/) or music pieces, right? I guess we were wrong:
+At least they cannot create creative things like [art](https://deepart.io/) or music pieces, right? I guess we were wrong.
+
+Some systems can turn photos into an artwork with a chosen stylistic elements:
+
 <div style="text-align:center"><img src="/assets/tech_2016.jpg" width="40%" /></div>
 <div style="text-align:center"><img src="/assets/sternenacht.jpg" width="40%" /></div>
 <div style="text-align:center"><img src="/assets/tech_art.jpg" width="40%" /></div>
+
+**Fear**
+
+Did I impress you with these examples? Because functions are mentioned that are to some degree impressive and maybe disturbing, fear is being created. Naturally, humans start to make assumptions and predictions about our future. People start to generalize what AI can do and think that anything can be generated with GAN. E.g AI starts to generate their own faces and create fake media and fake news to start war and humanity is doomed. If you want more horror stories look at this article: [Five of the scariest predictions about artificial intelligence](https://www.cnbc.com/2018/08/01/five-of-the-scariest-predictions-for-ai.html)
+
+### The catch with predictions
+
+There are countless articles on how AI will take over the world or causing mass unemployment. The problem with these predictions are that they create fear and keep us from working productively. Let me tell you about the seven deadly sins of AI predictions.
+
+1.	Overestimating and underestimating
+2.	Imagining magic
+3.	Performance versus competence
+4.	Suitcase words
+5.	Exponentials
+6.	Hollywood scenarios
+7.	Speed of deployment
+
+If you want to read more about them click [here](https://www.technologyreview.com/2017/10/06/241837/the-seven-deadly-sins-of-ai-predictions/).
+
+**Why did I mention them?**
+
+Humans have the past of making wrong predictions. In my opinion this case is the same with AI. The numerous benefits and unimaginable potential are obvious, but there are people who worry about things that are not going to happen. The seven deadly sins are some reasons why wrong predictions happen and I think before reading any article about new innovations we should maybe consider the seven deadly sins.
+
+### Mass unemployement
+
+[This article](https://www.marketwatch.com/story/this-chart-spells-out-in-black-and-white-just-how-many-jobs-will-be-lost-to-robots-2017-05-31?mg=prod/accounts-mw) for example claims that robots will take over half of today’s jobs in 10-20 years. Articles like these catch the attention our eyes very quickly simple due to the fact that something not understandable **takes something away** from us.
+
+Rodnes Brooks explains that this is an example of mistaken prediction due to the seven deadly sins. 
+He quotes:
+>  “Almost all innovations in robotics and AI take far, far, longer to be really widely deployed than people in the field and outside the field imagine.“
+
+Humans fear what they do not understand and very quickly make assumptions about the short-term future. It was the same in the early 1950s when the age of the computer arrived. People feared that any unskilled job would be replaced by the computer in the next years. And until today new technology has always been the scapegoat to blame joblessness.
+
+Here are some previous headlines of (articles)[https://timeline.com/robots-have-been-about-to-take-all-the-jobs-for-more-than-200-years-5c9c08a2f41d] ranging from 1950 to 1980:
+
+<div style="text-align:center"><img src="/assets/1950_headline.png" width="40%" /></div>
+<div style="text-align:center"><img src="/assets/1960_headline.png" width="40%" /></div>
+<div style="text-align:center"><img src="/assets/1980_headline.png" width="40%" /></div>
+
+If we look back about these articles we can conclude that the fear was unreasonable. It is true that jobs will be replaced but we tend to forget that new technologies open up new opportunities and also create new jobs. The goal of AI is to **improve the life of workers and not replace them** and there is absolutely no robot in this world who wants to “steal” your job.   
+
+### Conclusion
+
+I agree that there are some examples where AI can be a threat. (Look at previous blog post where I talked about biased AI). But we should not forget that almost all innovations take far longer than people imagine. They will evolve over time and the changes in our society will not be sudden and unexpected as many people think. Making possible future assumptions are good, but creating fear and hysteria in short-term future is not productive. It is better to look what is possible in right now and don’t overestimate it. Let’s try to create norms to prevent threats which are possible with current AI.  Prepare schools and change education systems so that students learn skills which cannot be easily replaced by narrow AI. 
