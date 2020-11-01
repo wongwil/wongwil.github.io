@@ -3,7 +3,7 @@ layout: post
 title: "AI Part 2: Don't fear AI"
 author: William Wong
 categories: uni
-published: false
+published: true
 ---
 
 ### Intro
@@ -48,6 +48,8 @@ Because we cannot tell the difference, it is indeed a little bit disturbing. Aft
 
 Well, what about realistic [videos](https://www.vice.com/en/article/qv7zkw/create-fake-videos-of-faces-samsung-ai-labs-algorithm) of you ? 
 In this example they only need one photo to create an animated portraits of you. Obviously this is already more frightening. Let’s say someone creates a fake video of you and puts in on the internet with some altered audio of you saying ignorant things.
+
+<div style="text-align:center"><img src="/assets/monalisa.gif" width="40%" /></div>
 
 **Art**
 
