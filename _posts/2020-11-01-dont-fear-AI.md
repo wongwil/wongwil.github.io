@@ -3,7 +3,7 @@ layout: post
 title: "AI Part 2: Don't fear AI!"
 author: William Wong
 categories: uni
-published: false
+published: true
 ---
 
 ### Intro
@@ -19,3 +19,7 @@ The chance that AI will suddenly develop spontaneous malicious intent is therefo
 
 ### Generative adversarial network (GAN)
 Let me tell you about the generative adversarial networks. I am not an expert in this field but I found this concept quite interesting. I chose this concept because it actually reminds me of the fictional scenario where AI competes against other AI and improve each other during their mutual training. If you want to read more about it, click here: [Generative Adversarial Networks — Explained](https://towardsdatascience.com/generative-adversarial-networks-explained-34472718707a).
+
+How it works:
+
+<img src="/assets/GAN_concept.png" width="60%"/>
