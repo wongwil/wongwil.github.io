@@ -91,7 +91,7 @@ He quotes:
 
 Humans fear what they do not understand and very quickly make assumptions about the short-term future. It was the same in the early 1950s when the age of the computer arrived. People feared that any unskilled job would be replaced by the computer in the next years. And until today new technology has always been the scapegoat to blame joblessness.
 
-Here are some previous headlines of (articles)[https://timeline.com/robots-have-been-about-to-take-all-the-jobs-for-more-than-200-years-5c9c08a2f41d] ranging from 1950 to 1980:
+Here are some previous headlines of articles ranging from 1950 to 1980. You can find more of them on this [article](https://timeline.com/robots-have-been-about-to-take-all-the-jobs-for-more-than-200-years-5c9c08a2f41d):
 
 <div style="text-align:center"><img src="/assets/1950_headline.png" width="40%" /></div>
 <div style="text-align:center"><img src="/assets/1960_headline.png" width="40%" /></div>
