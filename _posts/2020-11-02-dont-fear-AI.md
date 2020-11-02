@@ -3,7 +3,7 @@ layout: post
 title: "AI Part 2: Don't fear AI"
 author: William Wong
 categories: uni
-published: false
+published: true
 ---
 
 ### Intro
@@ -24,14 +24,14 @@ The chance that AI will suddenly develop spontaneous malicious intent is therefo
 #### Biased AI
 I talked about biased AI in my first blog. 
 Here’s an [article](https://rm.coe.int/discrimination-artificial-intelligence-and-algorithmic-decision-making/1680925d73/) 
-why they happen. 
+explaining why they happen. 
 
 
 Moreover, I learnt some new some new interesting use cases from the course (all of them applications of GAN):
 
 #### Generating faces:
 [Faces](https://generated.photos/faces) of humans who don’t exist.
-
+<div style="text-align:center; margin: 10px"><img src="/assets/fakefaces.png" width="40%" /></div>
 
 #### Fake videos
 Or realistic fake [videos](https://www.vice.com/en/article/qv7zkw/create-fake-videos-of-faces-samsung-ai-labs-algorithm) 
