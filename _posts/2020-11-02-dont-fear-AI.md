@@ -29,7 +29,7 @@ explaining why they happen.
 
 Moreover, I learnt some new some new interesting use cases from the course (all of them applications of GAN):
 
-#### Generating faces:
+#### Generating faces
 [Faces](https://generated.photos/faces) of humans who don’t exist.
 <div style="text-align:center; margin: 10px"><img src="/assets/fakefaces.png" width="40%" /></div>
 
@@ -45,7 +45,7 @@ Some systems can even turn photos into an [art](https://deepart.io/) with a chos
 <div style="text-align:center; margin: 10px"><img src="/assets/tech_art.jpg" height="170px" /></div>
 
 #### Creating fear
-People start to overestimate and generalize what AI can do and think that anything can be generated with AI. E.g AI starts to generate fake [media](https://www.ft.com/content/55a39e92-8357-11ea-b872-8db45d5f6714) and fake news to start war.
+People start to overestimate and generalize what AI can do and think that anything can be generated with AI. E.g. AI starts to generate fake [media](https://www.ft.com/content/55a39e92-8357-11ea-b872-8db45d5f6714) and fake news to start war.
 Or this [article](https://www.fastcompany.com/90134278/biased-ai-is-a-threat-to-civil-liberty-the-aclu-has-a-plan-to-fix-it) and also on my first blog talking about algorithms could be used in future to decide more serious issues, like prison sentences. Biased AI is a threat to our freedom. 
 
 
@@ -54,7 +54,7 @@ The problem with these AI predictions are that humans have the past of making wr
 The deadly sins of AI predictions [here]( https://www.technologyreview.com/2017/10/06/241837/the-seven-deadly-sins-of-ai-predictions/) are the reasons why they happen. 
 
 
-[This article](https://www.marketwatch.com/story/this-chart-spells-out-in-black-and-white-just-how-many-jobs-will-be-lost-to-robots-2017-05-31?mg=prod/accounts-mw) e.g contends that robots will take over half of today’s jobs in 10-20 years. Rodney Brooks explains that this is an example of mistaken prediction due to the seven deadly sins. 
+[This article](https://www.marketwatch.com/story/this-chart-spells-out-in-black-and-white-just-how-many-jobs-will-be-lost-to-robots-2017-05-31?mg=prod/accounts-mw) e.g. contends that robots will take over half of today’s jobs in 10-20 years. Rodney Brooks explains that this is an example of mistaken prediction due to the seven deadly sins. 
 
 He says:
 
