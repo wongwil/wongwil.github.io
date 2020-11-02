@@ -17,7 +17,7 @@ The question now is: do I still hold the same views as before?
 
 ### Evil AI nowhere near
 Not too surprisingly, I do still hold the same view: AI will not become evil. 
-Consciousness and human’s thoughts are still not really understandable at the moment. 
+Consciousness and human thoughts are still not really understandable at the moment. 
 The chance that AI will suddenly develop spontaneous malicious intent is therefore not possible at all. So what else are people afraid of?
 
 ### Some examples
@@ -27,7 +27,7 @@ Here’s an [article](https://rm.coe.int/discrimination-artificial-intelligence-
 explaining why they happen. 
 
 
-Moreover, I learnt some new some new interesting use cases from the course (all of them applications of GAN):
+Moreover, I learnt some new interesting use cases from the course (all of them applications of GAN):
 
 #### Generating faces
 [Faces](https://generated.photos/faces) of humans who don’t exist.
