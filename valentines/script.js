@@ -34,7 +34,7 @@ function checkName() {
     } else {
         // Display error message
         errorMessage.innerText = 'Wrong name! Who TF are you?? Get off this page!';
-        shootingDiv.innerHTML = '<img src="pics/shooting.gif" alt="Shooting GIF">';
+        shootingDiv.innerHTML = '<img src="pics/shooting.gif" width="200px" alt="Shooting GIF">';
     }
 }
 
