@@ -1,9 +1,27 @@
 <html>
   <head>
+    <link rel="stylesheet" href="index.css">
     <title>My GitHub Pages Site</title>
   </head>
   <body>
-    <h1>Hello world!</h1>
-    <p>Welcome to my GitHub Pages site!</p>
+      <div id="valentineText">
+          Hello my love!! Today is the 10.02.2024, when I created this page, and
+          as you know a very special day is approaching...
+      </div>
+      <br>
+      <img id="valentineGif" src="pics/driving.gif" alt="Driving GIF">
+      <br>
+      <div id="valentineText">
+          But before that, I need to verify it's really you... <br>
+          Please enter your name (Spitzname):
+      <br>
+      <div>
+        <input type="text" id="nameInput" placeholder="Hier eingeben">
+        <button id="submitButton" onclick="checkName()">Verify</button>
+        <p id="errorMessage"></p>
+        <div id="shootingDiv"></p>
+      </div>
+
+      <script src="script.js"></script>
   </body>
 </html>

@@ -1,0 +1,53 @@
+body {
+    background-color: #ff9993;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+    font-family: Cambria, serif;
+    color: yellow;
+    padding: 100px;
+}
+
+#valentineText {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+#valentineGif {
+    width: 300px;
+    height: 300px;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 10px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+
+#yesButton {
+    background-color: #4CAF50;
+    color: white;
+}
+
+#noButton {
+    background-color: #f44336;
+    color: white;
+}
+
+#errorMessage {
+    color: red;
+}
+
+#nameInput {
+     padding: 12px;
+     font-size: 16px;
+     width: 300px;
+     margin-bottom: 10px;
+ }
