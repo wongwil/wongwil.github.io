@@ -4,12 +4,101 @@
     <title>My GitHub Pages Site</title>
   </head>
   <body>
-      <div id="valentineText">
+      <div class="valentineTextLarge">
           THANK YOU FOR SAYING YES!
       </div>
       <br>
-      <img id="valentineGif" src="pics/happy.gif">
+      <img id="valentineGif" class="center" src="pics/happy.gif">
       <br>
-      <script src="script.js"></script>
+
+      <div class="valentineTextLarge">
+        I have made the following reservation: <br>
+        Our date will be at 14.02.2024. I will pick you up from school and
+        we will eat at one of your favorite restaurants: <br> <br>
+        <iframe class="center" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2497.769574423571!2d6.78043357660419!3d51.24173847175412!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b8c94e3d2b3273%3A0x94e6c101613b0bef!2sBaBa%20Sushi%20Restaurant!5e0!3m2!1sde!2sch!4v1707564294657!5m2!1sde!2sch" 
+        width="400" height="350" style="border:0;" allowfullscreen="" 
+        loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <br>
+        And we will eat plenty of SUSHI!
+        
+        <div class="image-container">
+          <img src="pics/sushi.png" height="200px" alt="Picture 1">
+          <img src="pics/sushi2.jpg"  height="200px" alt="Picture 2">
+          <img src="pics/chicken.jpg"  height="200px" alt="Picture 3">
+        </div>
+
+        <br>
+        After that, you can choose the following activities:
+        
+        <div class="selection-container">
+          <div class="checkbox-image">
+            <div>
+              <img height="200px" src="pics/activities/holdhands.jpg">
+            </div>
+            <div>
+              <input type="checkbox" id="pic1Checkbox">
+              <label for="pic1Checkbox">Hold hands</label>
+            </div>
+          </div>
+
+          <div class="checkbox-image">
+            <div>
+              <img height="200px" src="pics/activities/icecream.jpg">
+            </div>
+            <div>
+              <input type="checkbox" id="pic1Checkbox">
+              <label>Ice cream</label>
+            </div>
+          </div>
+
+          <div class="checkbox-image">
+            <div>
+              <img height="200px" src="pics/activities/kuscheln.jpg">
+            </div>
+            <div>
+              <input type="checkbox" id="pic1Checkbox">
+              <label>Kuscheln</label>
+            </div>
+          </div>
+      
+        </div>
+
+        <div class="selection-container">
+          <div class="checkbox-image">
+            <div>
+              <img height="200px" src="pics/activities/playing_games.jpg">
+            </div>
+            <div>
+              <input type="checkbox" id="pic1Checkbox">
+              <label>Zocken</label>
+            </div>
+          </div>
+
+          <div class="checkbox-image">
+            <div>
+              <img height="200px" src="pics/activities/abby.jpg">
+            </div>
+            <div>
+              <input type="checkbox" onclick="return false;" checked="True" id="pic1Checkbox">
+              <label>Mit Abby gehen :/</label>
+            </div>
+          </div>
+
+          <div class="checkbox-image">
+            <div>
+              <img height="200px" src="pics/activities/spazieren.jpg">
+            </div>
+            <div>
+              <input type="checkbox" id="pic1Checkbox">
+              <label>Spazieren</label>
+            </div>
+          </div>
+      
+        </div>
+    </div>
+
+    <div class="center">
+      <button onclick="theEndButton()">Send</button> <br>
+    </div>
   </body>
 </html>

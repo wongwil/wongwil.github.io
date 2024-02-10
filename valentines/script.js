@@ -1,7 +1,10 @@
 function loadPage() {
-  const box = document.getElementById('box');
+  fetchPage('verify.html')
+}
 
-  fetch('home.html', {
+function fetchPage(file){
+  const box = document.getElementById('box');
+  fetch(file, {
     // 👇️ set Accept header to `text/html`
     headers: {
       Accept: 'text/html',
@@ -14,8 +17,9 @@ function loadPage() {
     .catch(error => {
       console.log(error);
     });
-}
 
+  window.scrollTo({top: 0, behavior: 'smooth'});
+}
 loadPage();
 
 
@@ -26,7 +30,7 @@ function checkName() {
 
     if (inputName.toLowerCase() === 'leo') {
         // Redirect to another page
-        window.location.href = 'willyoube.html';
+        fetchPage('willyoube.html');
     } else {
         // Display error message
         errorMessage.innerText = 'Wrong name! Who TF are you?? Get off this page!';
@@ -50,6 +54,11 @@ function moveButton() {
      button.style.top = randomY + 'px';
  }
 
- function yesButton() {
-      window.location.href = 'shesaidyes.html';
-  }
+function yesButton() {
+    fetchPage('shesaidyes.html');
+}
+
+function theEndButton() {
+  fetchPage('appreciate.html');
+}
+
