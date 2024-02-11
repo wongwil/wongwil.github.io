@@ -20,6 +20,8 @@ function fetchPage(file){
 
   window.scrollTo({top: 0, behavior: 'smooth'});
 }
+
+
 loadPage();
 
 
@@ -28,7 +30,8 @@ function checkName() {
     var errorMessage = document.getElementById('errorMessage');
     var shootingDiv = document.getElementById('shootingDiv');
 
-    if (inputName.toLowerCase() === 'leo' ||  inputName.toLowerCase() === 'schatzi'
+    if (inputName.toLowerCase() === 'leo' 
+    || inputName.toLowerCase() === 'schatz'
     || inputName.toLowerCase() === 'schnucki' || inputName.toLowerCase() === 'baby'
     || inputName.toLowerCase() === 'babe') {
         // Redirect to another page
@@ -36,7 +39,7 @@ function checkName() {
     } else {
         // Display error message
         errorMessage.innerText = 'Wrong name! Who TF are you?? Get off this page!';
-        shootingDiv.innerHTML = '<img src="pics/shooting.gif" width="200px" alt="Shooting GIF">';
+        shootingDiv.innerHTML = '<img src="pics/shooting.gif" class="center" width="200px" alt="Shooting GIF">';
     }
 }
 
