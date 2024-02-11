@@ -31,13 +31,13 @@ function checkName() {
     var shootingDiv = document.getElementById('shootingDiv');
 
     if (inputName.toLowerCase() === 'leo' 
+    || inputName.toLowerCase() === 'schatzi'
     || inputName.toLowerCase() === 'schatz'
-    || inputName.toLowerCase() === 'schnucki' || inputName.toLowerCase() === 'baby'
+    || inputName.toLowerCase() === 'schnucki' 
+    || inputName.toLowerCase() === 'baby'
     || inputName.toLowerCase() === 'babe') {
-        // Redirect to another page
         fetchPage('willyoube.html');
     } else {
-        // Display error message
         errorMessage.innerText = 'Wrong name! Who TF are you?? Get off this page!';
         shootingDiv.innerHTML = '<img src="pics/shooting.gif" class="center" width="200px" alt="Shooting GIF">';
     }
