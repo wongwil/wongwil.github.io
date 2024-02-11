@@ -28,7 +28,9 @@ function checkName() {
     var errorMessage = document.getElementById('errorMessage');
     var shootingDiv = document.getElementById('shootingDiv');
 
-    if (inputName.toLowerCase() === 'leo') {
+    if (inputName.toLowerCase() === 'leo' ||  inputName.toLowerCase() === 'schatzi'
+    || inputName.toLowerCase() === 'schnucki' || inputName.toLowerCase() === 'baby'
+    || inputName.toLowerCase() === 'babe') {
         // Redirect to another page
         fetchPage('willyoube.html');
     } else {
@@ -38,20 +40,32 @@ function checkName() {
     }
 }
 
+var noButton = document.getElementById('noButton');
+//var originalTop = noButton.offsetTop;
+//var originalLeft = noButton.offsetLeft;
+
+function getRandomInt(min, max) {
+  return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+
 function moveButton() {
-     var button = document.getElementById('noButton');
+  var randomLeft = getRandomInt(0, window.innerWidth  - noButton.clientWidth);
 
-     // Get window dimensions
-     var windowWidth = window.innerWidth / 2;
-     var windowHeight = window.innerHeight / 2;
+  noButton.style.left = originalLeft - randomLeft + 'px';
+ }
 
-     // Calculate random positions
-     var randomX = Math.floor(Math.random() * (windowWidth - button.offsetWidth));
-     var randomY = Math.floor(Math.random() * (windowHeight - button.offsetHeight));
+ var scaleIncrement = 0.5;
 
-     // Set button position
-     button.style.left = randomX + 'px';
-     button.style.top = randomY + 'px';
+ function clickNo() {
+  var yesButton = document.getElementById('yesButton');
+  var currentScale = parseFloat(yesButton.style.transform.split('(')[1]) || 1;
+
+  var newScale = currentScale + scaleIncrement;
+
+  console.log(newScale)
+
+  yesButton.style.transform = 'scale(' + newScale + ')';
+  //moveButton()
  }
 
 function yesButton() {

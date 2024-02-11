@@ -1,14 +1,26 @@
 body {
     background-color: #ff9993;
     color: rgb(251, 255, 0);
-    padding: 50px;
-    margin: auto;
+    width:80%;
+    margin-left:auto;
+    margin-right:auto;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, serif;
+    display:flex; flex-direction:column; justify-content:center;
+}
+
+label {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, serif;
+    font-size: 20px;
 }
 
 #box {
     background-color: #ff9993;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, serif;
+    padding-top: 20px;
+    display:flex; flex-direction:column; justify-content:center;
 }
 
 .valentineTextSmall {
@@ -31,6 +43,7 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    display:flex; flex-direction:column; justify-content:center;
 }
 
 #valentineGif {
@@ -49,6 +62,8 @@ button {
 
 #yesButton {
     background-color: #4CAF50;
+    position: relative;
+    transition: transform 0.2s ease;
     color: white;
 }
 
@@ -58,19 +73,10 @@ button {
     cursor: pointer;
     border: none;
     border-radius: 5px;
-    transition: all 0.5s ease;
-    position: absolute;
+    transition: top 0.1s ease, left 0.1s ease;
+    position: relative;
 }
 
-#moveButton {
-    padding: 10px 20px;
-    font-size: 16px;
-    cursor: pointer;
-    border: none;
-    border-radius: 5px;
-    transition: all 0.3s ease;
-    position: absolute;
-}
 
 #errorMessage {
     color: red;
@@ -85,27 +91,31 @@ button {
 
 
 .image-container {
+    margin-top: 10px;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
 .image-container img {
-    margin-right: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    
 }
 
 .selection-container {
-    justify-content: space-around; /* Adjust as needed */
-  }
+    margin-left: auto;
+    margin-right: auto;
+}
 
-  /* Optional: Add some spacing between image-checkbox pairs */
-  .selection-container > div {
-    margin-right: 20px;
-  }
-
-  /* Optional: Center text and checkbox */
-  label {
+.centered-container {
     text-align: center;
-  }
+}
 
-  
+.button-container {
+    display: inline-block;
+}
+
+.button-container button {
+    margin: 5px; /* Optional: Add some spacing between buttons */
+}
