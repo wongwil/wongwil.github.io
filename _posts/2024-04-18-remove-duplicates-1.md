@@ -22,7 +22,7 @@ It does not matter what you leave beyond the returned `k` (hence they are unders
 
 ### Solution (C++)
 The idea is to have two indeces. One index `a` which iterates through the whole list, "looking for the next unique element" and one in-place index `b`, which defines the last unique element.
-As the list is sorted, we can check for the next unequal element than the element in index b.
+As the list is sorted, we can check for the next unequal element than the element in index `b`.
 
 ```c++
 class Solution {
