@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Product of Array except itself WITHOUT division operation [Medium]"
+title: "Product of Array except itself without division"
 author: William Wong
 categories: leetcode
-tags: [LeetCode, Medium]
+tags: [Medium]
 published: true
 ---
 
