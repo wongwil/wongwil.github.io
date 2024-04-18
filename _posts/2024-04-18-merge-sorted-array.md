@@ -25,7 +25,7 @@ The result of the merge is [1,2,2,3,5,6] with the underlined elements coming fro
 The easiest and quickest solution in O(n), is to have three pointers, p1, p2, p_merged. All of them should start at the end of the arrays, 
 and we set the last element in the merged list to the bigger element of the two. 
 
-```
+```c++
 class Solution {
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
