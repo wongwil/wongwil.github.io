@@ -3,7 +3,7 @@ layout: post
 title: "Remove Element"
 author: William Wong
 categories: leetcode
-tags: [LeetCode, Easy]
+tags: [Easy]
 published: true
 ---
 
