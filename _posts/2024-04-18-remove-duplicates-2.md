@@ -3,7 +3,7 @@ layout: post
 title: "Remove Duplicates from Sorted Array 2"
 author: William Wong
 categories: leetcode
-tags: [LeetCode, Medium]
+tags: [Medium]
 published: true
 ---
 
