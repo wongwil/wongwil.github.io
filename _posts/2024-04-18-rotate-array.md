@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Rotate Array [Medium]"
+title: "Rotate Array"
 author: William Wong
 categories: leetcode
-tags: [LeetCode, Medium]
+tags: [Medium]
 published: true
 ---
 Given an integer array `nums`, rotate the array to the right by `k` steps, where `k` is non-negative.
