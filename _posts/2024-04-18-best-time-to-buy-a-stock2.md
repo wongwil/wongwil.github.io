@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Best Time to Buy and Sell Stock 2"
+title: "Best Time to Buy and Sell Stock 2 [Medium]"
 author: William Wong
 categories: leetcode
 tags: [LeetCode, Medium]
