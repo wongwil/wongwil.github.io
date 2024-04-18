@@ -3,7 +3,7 @@ layout: post
 title: "Best Time to Buy and Sell Stock 1"
 author: William Wong
 categories: leetcode
-tags: [LeetCode, Easy]
+tags: [Easy]
 published: true
 ---
 You are given an array `prices` where `prices[i]` is the price of a given stock on the i-th day.
