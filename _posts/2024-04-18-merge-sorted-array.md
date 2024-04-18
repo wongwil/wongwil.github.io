@@ -19,12 +19,14 @@ elements are set to 0 and should be ignored. nums2 has a length of n.
 
 ### Example
 Input: nums1 = [1,2,3,0,0,0], m = 3, nums2 = [2,5,6], n = 3
+
 Output: [1,2,2,3,5,6]
+
 Explanation: The arrays we are merging are [1,2,3] and [2,5,6].
 The result of the merge is [1,2,2,3,5,6] with the underlined elements coming from nums1.
 
 ### Solution (C++)
-Have three pointers, p1, p2, p_merged. All of them should start at the end of the arrays, 
+The easiest and quickest solution in O(n), is to have three pointers, p1, p2, p_merged. All of them should start at the end of the arrays, 
 and we set the last element in the merged list to the bigger element of the two. 
 
 ```
