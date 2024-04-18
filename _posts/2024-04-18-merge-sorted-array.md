@@ -3,7 +3,7 @@ layout: post
 title: "Merge sorted array"
 author: William Wong
 categories: leetcode
-tag: Easy
+tags: [LeetCode, Easy]
 published: true
 ---
 
