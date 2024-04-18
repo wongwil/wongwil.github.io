@@ -13,7 +13,7 @@ Consider the number of elements in nums which are not equal to `val` be `k`, to 
 - Change the array `nums` such that the first `k` elements of `nums` contain the elements which are not equal to `val`. The remaining elements of nums are not important as well as the size of nums.
 - Return k (❗ EDIT: the exercise had a mistake on leetcode. It is supposed to return the pointer of the last element, so it should be `k-1`)
 
- ### Example
+### Example
 - Input: `nums` = [3,2,2,3], `val` = 3
 - Output: 2, `nums` = [2,2,_,_] (❗ EDIT: should return 1)
 - Explanation: Your function should return `k` = 2, with the first two elements of nums being 2.
