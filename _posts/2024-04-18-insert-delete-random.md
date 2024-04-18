@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Insert Delete Random in O(1) [Medium]"
+title: "Insert Delete Random in O(1)"
 author: William Wong
 categories: leetcode
-tags: [LeetCode, Medium]
+tags: [Medium]
 published: true
 ---
 
