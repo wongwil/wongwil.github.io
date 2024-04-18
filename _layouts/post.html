@@ -24,9 +24,9 @@ layout: default
             {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
       {%- endif -%}</p>
-      {% if post.tags.size > 0 %}
-       • Tag{% if post.tags.size > 1 %}s{% endif %}:
-      {{ post.tags | sort | join: ", " }}
+      {% if page.tags.size > 0 %}
+       • Tag{% if page.tags.size > 1 %}s{% endif %}:
+      {{ page.tags | sort | join: ", " }}
 {% endif %}
   </header>
 
