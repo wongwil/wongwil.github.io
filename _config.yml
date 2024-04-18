@@ -57,4 +57,4 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
- - jekyll/jemoji
+ - jemoji
