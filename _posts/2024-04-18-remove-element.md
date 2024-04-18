@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Remove Element"
+title: "Remove Element [Easy]"
 author: William Wong
 categories: leetcode
 tags: [LeetCode, Easy]
