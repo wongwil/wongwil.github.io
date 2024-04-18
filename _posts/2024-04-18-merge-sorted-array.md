@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Merge sorted array"
+author: William Wong
+categories: leetcode
+tag: Easy
+published: true
+---
+
 ## Merge Sorted Array
 
 You are given two integer arrays `nums1` and `nums2`, sorted in non-decreasing order, and 
