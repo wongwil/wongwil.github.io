@@ -24,6 +24,10 @@ layout: default
             {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
       {%- endif -%}</p>
+      {% if post.tags.size > 0 %}
+        Tag{% if post.tags.size > 1 %}s{% endif %}:
+      {{ post.tags | sort | join: ", " }}
+{% endif %}
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
