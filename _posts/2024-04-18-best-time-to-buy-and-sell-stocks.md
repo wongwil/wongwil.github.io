@@ -19,8 +19,9 @@ Return the maximum profit you can achieve from this transaction. If you cannot a
 Note that buying on day 2 and selling on day 1 is not allowed because you must buy before you sell.
 
 ### Solution (C++)
-Clearly we go from left to right. The way to tackle this problem is to look at two cases: (1) If the next day has a larger price and (2) if the next day has a lower price. If price stays the same, trivial case, don't do anything at all.
-- (1) easy case, we update our max_profit (if profit is larger than previous).
+Clearly, we go from left to right in the array. The way to tackle this problem is to look at two cases: (1) If the next day has a larger price and (2) if the next day has a lower price. 
+If price stays the same, simply don't do anything at all.
+- (1) the easy case: we update our max_profit (if profit is larger than previous).
 - (2) in case of a lower price, it's definitely better to "buy" this stock instead of the older one, as for ANY new price coming, it's always better to have a lower buy price for maximum profit.
 
 That's it!

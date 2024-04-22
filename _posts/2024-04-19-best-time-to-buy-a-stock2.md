@@ -20,12 +20,13 @@ Then buy on day 4 (price = 3) and sell on day 5 (price = 6), profit = 6-3 = 3.
 Total profit is 4 + 3 = 7.
 
 ### Solution (C++)
-Similar to before, we consider two cases: When the next day's price is larger (1) and lower (2).
-- (1) In case it's larger, we definitely have to sell! One might wonder, why is that the case? Couldn't there be a later better day, where the stock price is higher? That's true, but by the definition of the task, we can always buy and sell the stock at the same day for the same price. For the array: 1 2 3 4, assuming we buy at day 0 (price=1), if we buy and sell the next day, we have the intermediate profit of 1. Proceeding the same way until the end of array, we have a total profit of 3, the same as when "keeping" the stock and wait until the last day to sell.
-By doing this, we always ensure having intermediate profits, and in case of 1 2 1, waiting would actually result to no profit, so selling immediately after the stock price rises is better.
-- (2) In case it's smaller, we update the buy_price. The reasoning is the same as previous task: For any future prices, a lower buy_price always results to a higher profit.
+Similar to ["Best Time to Buy and Sell Stock 1"](https://wongwil.github.io/leetcode/2024/04/18/best-time-to-buy-and-sell-stocks.html), we consider two cases: When the next day's price is larger (1) and lower (2).
+- (1) In case it's larger, we definitely have to sell! You might wonder, why is that the case? Couldn't there be a later better day, where the stock price is higher? That's true, but by the definition of the task, we can always buy and sell the stock at the same day for the same price. For the array: `[1 2 3 4]`, assuming we buy at day 0 (price=1), if we buy and sell the next day,
+we have the intermediate profit of 1. Proceeding the same way until the end of array, we have a total profit of 3, the same as when "keeping" the stock and wait until the last day to sell.
+By doing this, we always ensure having intermediate profits, and in case of `[1 2 1]`, waiting would actually result to no profit, so selling immediately after the stock price rises is better.
+- (2) In case it's smaller, we update the `buy_price`. The reasoning is the same as previous task: For any future prices, a lower buy_price always results to a higher profit.
 
-If you are more into math, one could imagine this approach as summing up the positive gradient in a non-linear graph from left to right.
+If you are more into math, one could imagine this approach as summing up the positive gradients from left to right.
 
 ```c++
 class Solution {
