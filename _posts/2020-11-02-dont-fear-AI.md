@@ -9,7 +9,7 @@ published: true
 ### Intro
 Hi there! This will be a continuation of my first blog post where I talked about the question 
 “is AI is harmful or helpful”. You can read the first 
-blog post [here](https://liamya.github.io/uni/2020/09/20/good-or-bad-guy.html). 
+blog post [here](https://wongwil.github.io/uni/2020/09/20/good-or-bad-guy.html). 
 Let’s review what my first post was about: I concluded that AI becoming evil is not possible. 
 The reason for that is that general artificial intelligence is needed for that scenario. 
 The question now is: do I still hold the same views as before?
