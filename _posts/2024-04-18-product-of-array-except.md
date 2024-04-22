@@ -14,7 +14,7 @@ The product of any prefix or suffix of `nums` is guaranteed to fit in a 32-bit i
 You must write an algorithm that runs in O(n) time and **without using the division operation**.
 
 ### Solution (Java)
-As we cannot use division, the idea is to create a prefix and suffix array, such that ans[i] = pref [i] * suff[i].
+As we cannot use division, the idea is to create a prefix and suffix array, such that `ans[i] = pref [i] * suff[i]`.
 
 ```java
 class Solution {
