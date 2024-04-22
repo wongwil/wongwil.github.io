@@ -14,11 +14,15 @@ Could you do it in-place with O(1) extra space?
 - Output: [5,6,7,1,2,3,4]
 
 ### Solution (C++)
-The idea is two do the "reverse" approach: You reverse nums once. Then you reverse the subarrays in length `k` and `n-k` separately.
+The idea is two do the "reverse" approach: You reverse `nums` once. Then you reverse the subarrays in length `k` and `n-k` separately.
 You can either use built-in reverse functions (for C++: reverse()) or code it your own. For practice, I coded my own reverse function.
 To do that, do a swap function, where first element gets swapped with last, second with second last etc., so switch `i` with `n-i`.
 
 Note that `k` can be larger than `n` in some test cases. You need to handle it by `k = k % n` since it's has cyclic equivalence.
+
+So why does this "reverse" approach work? Assume the array looks like `a | b` and we want to rotate it to `b | a`. It's clear, that it's just mirroring the
+elements at `|` but by keeping the original order of the elements within `a` and `b`. This is exactly done by mirroring at the center, and then
+mirroring within their respective subarrays (which keeps the original order).
 
 ```c++
 class Solution {

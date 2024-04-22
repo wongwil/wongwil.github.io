@@ -20,7 +20,8 @@ Consider the number of elements in nums which are not equal to `val` be `k`, to 
 It does not matter what you leave beyond the returned `k` (hence they are underscores).
 
 ### Solution (C++)
-The idea is to go through `nums` from left to right. We skip values that are equals val but with a pointer, we keep track of the last element which was `val` to insert the next element which is not `val`.
+The idea is to go through `nums` from left to right. We skip values that are equals `val` but by using a pointer. With the pointer, we keep track of the last element which was 
+`val` in order to insert the next element which is not `val`.
 When we insert a valid element, we increment our pointer.
 
 ```c++
