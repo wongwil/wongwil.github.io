@@ -23,7 +23,10 @@ Do not allocate extra space for another array. You must do this by modifying the
 It does not matter what you leave beyond the returned k (hence they are underscores).
 
 ### Solution (C++)
-The idea is similar to before. We go through each element, and decide if we want to insert it. If it's the first two elements, they can be inserted anyways or if the second last unique element is not equals.
+The idea is similar to [part 1](https://wongwil.github.io/leetcode/2024/04/18/remove-duplicates-1.html). 
+We go through each element, and decide if we want to insert it. 
+If we are having the the first two elements in the array, they can be inserted anyways (appear at most twice).
+Then for other elements, we check if the second last unique element is not the same to ensure duplicates at most twice.
 
 ```c++
 class Solution {
