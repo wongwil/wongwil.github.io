@@ -9,24 +9,28 @@ published: true
 
 Implement the RandomizedSet class:
 - `RandomizedSet()`: Initializes the RandomizedSet object.
-- `bool insert(int val)`: Inserts an item val into the set if not present. Returns true if the item was not present, false otherwise.
-bool remove(int val) Removes an item val from the set if present. Returns true if the item was present, false otherwise.
-- `int getRandom()`: Returns a random element from the current set of elements (it's guaranteed that at least one element exists when this method is called). Each element must have the same probability of being returned.
+- `bool insert(int val)`: Inserts an item `val` into the set if not present. Returns `true` if the item was not present, `false` otherwise.
+- `bool remove(int val)`: Removes an item `val` from the set if present. Returns `true` if the item was present, `false` otherwise.
+- `int getRandom()`: Returns a random element from the current set of elements (it's guaranteed that at least one element exists when this method is called). 
+Each element must have the same probability of being returned.
 
-You must implement the functions of the class such that each function works in average O(1) time complexity.
+You must implement the functions of the class such that each function works in average `O(1)` time complexity.
 
 No examples, as task description is pretty self-explanatory.
 
 ### Solution (Java)
-Clearly, to achieve O(1) for insert and remove, it requires you to use a Hash-like datastructure. However, unlike arrays, they are indexed by their own key (and not like in arrays where i in 0-n). This means, using a random generator, you cannot get items in O(1). The trick is to use both datastructures: 
+Clearly, to achieve O(1) for insert and remove, it requires you to use a Hash-like datastructure. However, unlike arrays, they are indexed by their own key (and not like in arrays where `i` in required to be in `0-n`). 
+This means, using a random generator, you cannot get items in `O(1)`. The trick is to use **both** datastructures: 
 1. ArrayList which contains all items unordered
-2. HashMap, contains the to be inserted x as the key, and the index in the arraylist (1) as the value.
+2. HashMap, which contains the to be inserted `x` as the key, and the index in the arraylist (1) as the value.
 
 - (1) can easily be used to get random items in O(1)
 - (2) can be used to verify if it exists in O(1), also to add and remove items.
 
 When adding items, the new entry in the hashmap is just `(val, arr.size())`
-When removing items, you get the index from the hashmap. Then we just remove it from the array, also we replace the index of the last element to the one that was deleted, so we don't need to update all values in the hashmap (assuming there are enough items).
+When removing items, you get the index from the hashmap. Then we just remove it 
+from the array, also we replace the index of the last element to the one that was deleted, 
+so we don't need to update all values in the hashmap (assuming there are enough items).
 
 ```java
 class RandomizedSet {
