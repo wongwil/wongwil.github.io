@@ -19,7 +19,7 @@ If there is no common prefix, return an empty string "".
  - `strs[i]` consists of only lowercase English letters.
 
 ### Solution (Java)
-Although this is an easy problem, finding an optimial solution is not trivial. The straightforward solution which I did first was to take the first word as
+Although this is an easy problem, finding an optimal solution is not trivial. The straightforward solution which I did first was to take the first word as
 comparison. Then, compare the characters from all other words at `i=0`, and make sure they all match the letter from the first word. If yes, we can move to the
 next character (and add the character to the prefix), if not return the prefix so far.
 
@@ -42,7 +42,7 @@ class Solution {
     }
 }
 ```
-However, this runs in `O(nk)` where `k` is the length of the first word and `n` is the length of the array. If k is large (i.e. we have a long prefix), this is a problem.
+However, this runs in `O(nk)` where `k` is the length of the first word and `n` is the length of the array. If `k` is large (i.e. we have a long prefix), this is a problem.
 
 
 A solution that does not depend on `k` is to sort the array first. Notice that we then only have to compare the first and last string, as their shortest common prefix
