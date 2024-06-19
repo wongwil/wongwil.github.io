@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Roman to Integer"
+title: "Integer to Roman"
 author: William Wong
 categories: leetcode
 tags: [Easy]
