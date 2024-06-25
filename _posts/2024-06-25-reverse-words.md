@@ -53,9 +53,9 @@ class Solution {
 **Follow-up question: Can you solve it in `O(1)` space?**
 Use the knowledge gained from the problem [Rotate Array](https://wongwil.github.io/leetcode/2024/04/18/rotate-array.html)! This should ring some bells,
 namely one should reverse the array in order to get the right "words" order, but since each word is also reversed, one should reverse each word separetely.
-This can be done with two pointers, where the 
-1) denotes the pointer where the first letter of the word should belong (ideally immediately after the first white-space)
-2) denotes the pointer of the last letter of the word (ideally pointer 1 + amount of letters of the word)
+This can be done with two pointers, where 
+1. denotes the left pointer where the first letter of the word should belong (ideally immediately after the first white-space)
+2. denotes the right pointer of the last letter of the word (ideally pointer 1 + amount of letters of the word)
 
 Also note that in Java, strings are immutable, i.e. we cannot solve it in `O(1)` space. I have used C++ for that purpose!
 
