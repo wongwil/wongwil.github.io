@@ -15,7 +15,7 @@
     object-fit: cover; /* Ensures the image is cropped nicely */
     image-rendering: auto; /* Smoother image scaling */
     display: block;
-    filter: blur(0.5px);
+    filter: blur(0.1px);
     margin: 20px auto; /* Centering the image */
 }
 
