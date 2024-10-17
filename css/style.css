@@ -1,8 +1,21 @@
+/* Flexbox container */
+.about-container {
+    display: flex;
+    align-items: center; 
+    justify-content: flex-start;
+    gap: 20px; 
+    margin: 20px 0; 
+}
+
+/* Styling for the image */
 .profile-pic {
-    width: 150px; /* Adjust as needed */
-    height: 150px; /* Adjust as needed */
-    border-radius: 50%; /* Makes the image rounded */
-    object-fit: cover; /* Ensures image aspect ratio is maintained */
-    display: block;
-    margin: 20px auto; /* Centers the image horizontally */
+    width: 150px; 
+    height: 150px; 
+    border-radius: 50%; 
+    object-fit: cover; 
+}
+
+
+.about-text {
+    max-width: 600px; 
 }
