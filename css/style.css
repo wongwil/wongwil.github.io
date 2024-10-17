@@ -9,11 +9,14 @@
 
 /* Styling for the image */
 .profile-pic {
-    width: 150px; 
-    height: 150px; 
-    border-radius: 50%; 
-    object-fit: cover; 
-    image-rendering: auto;
+    width: 150px; /* Adjust the size of the image */
+    height: 150px; /* Adjust the size of the image */
+    border-radius: 50%; /* Makes the image rounded */
+    object-fit: cover; /* Ensures the image is cropped nicely */
+    image-rendering: auto; /* Smoother image scaling */
+    filter: blur(2px); /* Adjust the blur amount */
+    display: block;
+    margin: 20px auto; /* Centering the image */
 }
 
 
