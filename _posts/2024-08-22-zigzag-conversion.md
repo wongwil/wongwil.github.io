@@ -34,12 +34,12 @@ P     I
 ```
 ### Solution (Java)
 
-Been a minute I posted here, sorry for that! :smiley: This is one typical problem that sounds more complicated as it is.
+Been a minute I posted here, sorry for that! :smiley: This is one typical problem that sounds more complicated than it is.
 Don't try to find an algorithmic elegant solution, rather think of a good data structure to make it easier. And by good data structure,
 I don't mean that there is one data structure that magically solves this. 
 
 The trick is using for each row a list, then you use a variable which points to which list we are writing as we iterate through the string.
-Obviously it should toggle it's direction after it reaches the the end/beginning of the lists, similar like a metronome :alarm_clock: (sorry there's no metronome emoji).
+Obviously it should toggle the direction after it reaches the the end/beginning of the lists, similar like a metronome :alarm_clock: (there's no metronome emoji).
 ```java
 class Solution {
     public String convert(String s, int numRows) {
